@@ -75,7 +75,7 @@ F-Tilt's size is somewhat bigger
 D-Tilt can now IASA into itself 1 frame earlier
 Up-Smash is slightly bigger, clean hit now deals 1% more damage but less knockback, launches at an angle of 72, charge hitbox is weaker and pulls opponents in to combo better, charged swing hitbox deals 2% more damage and has increased knockback
 F-Smash's reflection bubble is 1/4 unit larger
-Down-Smash deals 1% more damage, launches at an angle of 25, charged hitbox pulls opponents in to combo better, charged swing hitbox deals 2% more damage and has 4 more IASA frames
+Down-Smash comes out 4 frames earlier, is slightly bigger, deals 1% more damage, launches at an angle of 25, charged hitbox pulls opponents in to combo better, charged swing hitbox deals 2% more damage with increased knockback and the attack has 4 more IASA frames
 Dash-Attack has more range
 N-Air comes out on Frame 3 and is slightly bigger, but the clean hit lasts for 2 frames less; less landing lag: 22f -> 18f
 F-Air has a bit more range and deals set knockback to improve the multihit; less landing lag: 18f -> 16f
@@ -85,7 +85,6 @@ PK Thunder no longer despawns when Ness is hit or KO'd -> can now perform PK Thu
 PK Fire now combos better, has less ending lag, 10 frames less landing lag, but lasts for 30 less frames
 Down-B is slightly faster
 Grabs are now psychic with significantly improved range and come out 1 frame earlier
-Regular jump produces a PSI particle
 Yo-Yo has had its string removed and is now a psychic fling, similar to its Super Smash Bros. N64 counterpart
 
 Zelda:
@@ -127,7 +126,7 @@ Up-Throw has less base knockback but improved knockback growth, improving its co
 
 Mr. Game & Watch:
 All aerials can now be L-Cancelled
-Weight increased by 5 units: 60u -> 65u
+Weight increased by 7 units: 60u -> 67u
 Shield size has been significantly increased to cover his entire body
 Dash is now 4 frames longer, giving him a better dash-dance
 Dash-Attack is faster
